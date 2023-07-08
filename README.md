@@ -42,6 +42,8 @@ To test your output, simply open any of your html files in your preferred web br
 An HTML template with the navigation section
 is already provided for you in [**src/index.html**](src/index.html).
 
+Use the images inside the [**src/img**](src/img) folder.
+
 
 ### Additional Requirements
 - Images of the cast members and their names should be clickable links that lead to their respective pages.
