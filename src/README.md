@@ -1,4 +1,4 @@
-Create your files and folders here.
+Create your files here.
 
 #### Folder Structure
 ```shell
