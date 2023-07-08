@@ -15,6 +15,11 @@ To test your output, simply open any of your html files in your preferred web br
 │   ├── hulk.html
 │   ├── index.html
 │   └── thor.html
+└── img/
+    ├── casts/
+    │   └── <images of casts>
+    └── characters/
+        └── <images of characters>
 ```
 
 

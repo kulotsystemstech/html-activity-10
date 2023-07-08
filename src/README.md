@@ -9,4 +9,9 @@ Create your files here.
 │   ├── hulk.html
 │   ├── index.html
 │   └── thor.html
+└── img/
+    ├── casts/
+    │   └── <images of casts>
+    └── characters/
+        └── <images of characters>
 ```
