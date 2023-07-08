@@ -38,6 +38,11 @@ To test your output, simply open any of your html files in your preferred web br
 ![black-widow](assets/html-10--06-black-widow.jpg)
 
 
+### Template
+An HTML template with the navigation section
+is already provided for you in [**src/index.html**](src/index.html).
+
+
 ### Additional Requirements
 - Images of the cast members and their names should be clickable links that lead to their respective pages.
 - Update the page's `<title>` and the highlighted navigation item based on the selected page.
